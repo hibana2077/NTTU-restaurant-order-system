@@ -1,0 +1,14 @@
+#this file is python dependant
+
+#API
+fastapi
+"uvicorn[standard]"
+
+#database
+pymongo
+
+#payment
+ccxt
+
+#hardware
+psutil
